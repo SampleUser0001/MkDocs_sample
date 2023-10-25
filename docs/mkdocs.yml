@@ -1,0 +1,18 @@
+theme:
+  name: readthedocs
+  locale: ja
+
+# contents
+nav:
+  - Home:
+      - index: index.md
+      - Markdown format sample: MarkdownFormatSample.md
+      - aaa: 
+        - aaa: aaa/aaa.md
+
+# metadata
+site_name: MkDocs Sample
+docs_dir: src
+use_directory_urls: false
+
+  
